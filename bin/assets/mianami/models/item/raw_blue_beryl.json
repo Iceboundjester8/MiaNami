@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "mianami:items/raw_blue_beryl"
+   }
+}
