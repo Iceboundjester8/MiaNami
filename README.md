@@ -14,4 +14,4 @@ See also the list of [contributors](https://github.com/Iceboundjester8/MiaNami/c
 
 ## Contributing
 
-Feel free to send us pull requests and they may be added if we think they are a good addition to the mods (bug fixes are welcome and very likely to be added)
+Feel free to send us pull requests and they may be added if we think they are a good addition to the mod (bug fixes are welcome and very likely to be added)
