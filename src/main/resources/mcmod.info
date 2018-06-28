@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mg",
+  "name": "MiaNami Gem",
+  "description": "Gems. GEMS! I LOVE GEMS!",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IcyUnicornGuy"],
+  "credits": "^u^",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
