@@ -1,0 +1,605 @@
+
+
+
+Gem crystals, Gem stones, and Gems
+
+
+-------------
+::Smithable::
+-------------
+-------------------------------------------------
+3 tiers of gem:Perfect Gem,Polished gem, raw gem. 
+-------------------------------------------------
+
+:Azurite
+:Beryl
+	:Aquamarine
+		Blue Beryl
+	Emerald
+	Goshenite
+	Heliodor
+	Morganite
+	Red Beryl
+	Riesling Beryl
+	Vorobyevite
+:Chrysoberyl
+	Alexandrite
+	Cymophane
+:Corundum
+	:Ruby
+		Flux-Grown Ruby
+		Geneva Ruby
+		Star Ruby
+		Verneuil Ruby
+	:Sapphire
+	Color Change Sapphire
+	Padparadscha
+	Star Sapphire
+:Diamond
+	Nano-Polycrystalline Diamond
+	(Colored)
+:Feldspar
+	:Albite
+		Peristerite
+	Andesine
+	Anorthite
+	Bytownite
+	Labradorite
+	:Microcline
+		Amazonite
+	Oligoclase
+	Oregon Sunstone
+	:Orthoclase
+		Adularia
+		Moonstone
+		Sanidine
+	Perthite
+	Sunstone
+:Garnet
+	Almandine
+	:Almandine-Pyrope
+		Rhodolite
+	:Andradite
+		Demantoid
+		Melanite
+		Topazolite
+	:Andradite-Grossular
+		Mali Garnet
+	Color Change Garnet
+	Gadolinium Gallium Garnet
+	:Grossular
+		Hessonite
+		Hibschite
+		Hydrogrossular
+		Transvaal Jade
+		Tsavorite
+	Malaia Garnet (Malaya Garnet)
+	Proteus
+	:Pyrope
+		Chrome Pyrope
+	:Pyrope-Spessartine
+		Umbalite
+	:Spessartite
+		Mandarin Garnet
+	Uvarovite
+	Yttrium Aluminium Garnet
+:Haüyne
+	:Lazurite
+		Lapis Lazuli
+:Hematite
+:Jade
+	Jadeite
+	Maw Sit Sit
+	Nephrite
+:Malachite
+:Opal
+	:Common Opal
+		Agate Opal
+		Andean Opal
+		Cacholong Opal
+		Girasol
+		Honey Opal
+		Hyalite
+		Hydrophane
+		Jasper Opal
+		Milk Opal
+		Moss Opal
+		Pink Opal
+		Prase Opal
+		Semiopal
+		Wax Opal
+		Wood Opal
+	Fire Opal
+	:Precious Opal
+		Black Opal
+		Boulder Opal
+		Crystal Opal
+		Harlequin Opal
+		Matrix Opal
+		Water Opal
+		White Opal
+:Peridot (Olivine, Chrysolite)
+	Fayalite
+	Forsterite
+	Tephroite
+:Pyrite
+:Quartz
+	Amethyst
+	Ametrine
+	Aqua Aura
+	:Chalcedony
+		:Agate
+			Fire Agate
+			Iris Agate
+		Binghamite
+		Bloodstone
+		Carnelian
+		Chrome-Chalcedony
+		Chrysocolla Chalcedony
+		Chrysoprase
+		:Jasper
+			Dallasite
+			Orbicular Jasper
+			Plasma
+		:Onyx
+			Sardonyx
+		Petrified Wood
+		Pietersite
+		Sard
+	Citrine
+	Iris Quartz
+	Mystic Quartz
+	Prase
+	Prasiolite
+	:Quartzite
+		Aventurine
+	Rock Crystal
+	Rose Quartz
+	Rutilated Quartz
+	:Smoky Quartz
+		Morion
+	:Tiger’s Eye
+		Falcon’s Eye
+	Tourmalinated Quartz
+:Rhodochrosite
+:Rhodonite
+:Sodalite
+	Hackmanite
+:Spinel
+	Ceylonite
+	Chromite
+	Gahnospinel
+	Hercynite
+	Pleonaste
+:Spodumene
+	Hiddenite
+	Kunzite
+:Topaz
+	Imperial Topaz
+	Mystic Topaz
+:Tourmaline
+	Achroite
+	Chrome-Tourmaline
+	Dravite
+	:Elbaite
+		:Cuprian Elbaite
+			Paraíba Tourmaline
+	Fluor-buergerite
+	Indicolite
+	Liddicoatite
+	Rossmanite
+	Rubellite
+	Schorl
+	Uvite
+	Verdelite
+	Watermelon Tourmaline
+:Turquoise
+:Zircon
+	Hyacinth
+	Starlite
+:Zoisite
+	Anyolite
+	Tanzanite
+	Thulite
+
+
+----------------------------
+::Gemstones for Collectors::
+----------------------------
+------------------------------------------------------------
+Buffs are made when these are added to jewlery or tools.
+These will be the gems you level to after learning to smith.
+------------------------------------------------------------
+
+:Actinolite
+	Smaragdite
+:Adamite
+:Aegirine
+:Aeschynite
+:Afghanite
+:Algodonite
+:Allanite
+:Analcime
+:Anatase
+:Anglesite
+:Anhydrite
+:Anorthoclase
+:Anthophyllite
+:Apophyllite
+:Aragonite
+:Astrophyllite
+:Atlantisite
+:Augelite
+:Augite
+:Azurmalachite
+:Baddeleyite
+:Barite
+:Bastnäsite
+:Bayldonite
+:Bertrandite
+:Boleite
+:Boracite
+:Bornite
+:Breithauptite
+:Brookite
+:Brucite
+:Bustamite
+:Calcite
+	Calcite Satin Spar
+	Cobaltoan Calcite
+:Caledonite
+:Campbellite
+:Canasite
+:Cancrinite
+:Celestine
+:Ceruleite
+:Chabazite
+:Chalcopyrite
+:Chambersite
+:Chicken-Blood Stone
+:Childrenite
+:Chiolite
+:Chondrodite
+:Cinnabar
+:Clinochlore
+	Kämmererite
+	Seraphinite
+:Clinohedrite
+:Clinohumite
+:Cobaltite
+:Colemanite
+:Copal
+:Covellite
+:Creedite
+:Crocoite
+:Cryolite
+:Cuprite
+:Datolite
+:Diallage
+:Diaspore
+	Color Change Diaspore
+:Dicksonite
+:Dolomite
+:Ekanite
+:Eosphorite
+:Esperite
+:Ettringite
+:Eudialyte
+:Euxenite
+:Faustite
+:Fergusonite
+:Foitite
+:Fordite
+:Franklinite
+:Friedelite
+:Gadolinite
+:Gahnite
+:Garnierite
+:Gedrite
+:Goethite
+:Grandidierite
+:Hardystonite
+:Herderite
+:Hibonite
+:Hodgkinsonite
+:Holmquistite
+:Howlite
+:Hübnerite
+:Humite
+:Hureaulite
+:Hurlbutite
+:Hypersthene
+:Inderite
+	Kurnakovite
+:Irnimite
+:Jacobsite
+:Jeremejevite
+:Johachidolite
+:Langbeinite
+:Larvikite
+:Lawsonite
+:Legrandite
+:Lepidolite
+:Leucite
+:Linarite
+:Lizardite
+:Londonite
+:Ludlamite
+:Magnesite
+:Magnetite
+:Marcasite
+:Meliphanite
+:Mellite
+:Microlite
+:Milarite
+:Millerite
+:Mimetite
+:Mohawkite
+:Moissanite
+:Monazite
+:Montebrasite
+:Muscovite
+	:Fuchsite
+		Verdite
+:Narsarsukite
+:Natrolite, Mesolite, Scolecite
+:Nepheline
+	Elaeolite
+:Neptunite
+:Niccolite
+:Nifontovite
+:Nigerite
+:Norbergite
+:Nosean
+:Omphacite
+:Ophicalcite
+	Connemara Marble
+	Verd Antique
+:Painite
+:Palygorskite
+:Papagoite
+:Pargasite
+:Parisite
+:Pectolite
+	Larimar
+:Pentlandite
+:Periclase
+:Pezzottaite
+:Phosgenite
+:Phosphophyllite
+:Phosphosiderite
+:Poldervaartite
+:Pollucite
+:Poudretteite
+:Povondraite
+:Powellite
+:Prosopite
+:Proustite
+:Pumpellyite
+	Chlorastrolite
+:Purpurite
+:Pyrargyrite
+:Pyromorphite
+:Pyrophyllite
+:Pyroxmangite
+:Pyrrhotite
+:Rainbow Calsilica
+:Realgar
+:Rhodizite
+:Rinkite
+:Romanèchite
+:Rutile
+:Samarskite
+:Sapphirine
+:Sarcopside
+:Schorlomite
+:Schultenite
+:Scorzalite
+:Sellaite
+:Senarmontite
+:Sérandite
+:Serendibite
+:Shattuckite
+:Shortite
+:Siderite
+:Sillimanite
+	Fibrolite
+:Simpsonite
+:Skutterudite
+	Smaltite
+:Sogdianite
+:Sonolite
+:Spurrite
+:Staurolite
+:Stibiotantalite
+:Strontianite
+:Sulfur (Sulphur)
+:Sussexite
+:Taaffeite
+	Musgravite
+:Talc
+	Steatite
+:Tantalite
+	Manganotantalite
+:Tavorite
+:Thaumasite
+:Thomsonite
+:Tinzenite
+:Tremolite
+	Chrome-Tremolite
+	Hexagonite
+:Triphylite
+:Triplite
+:Tugtupite
+:Väyrynenite
+:Villiaumite
+:Vivianite
+:Wardite
+:Wavellite
+:Weloganite
+:Whewellite
+:Whitlockite
+:Willemite
+:Witherite
+:Wollastonite
+:Wulfenite
+:Xenotime
+:Xonotlite
+:Zektzerite
+:Zeolite
+	Mordenite
+	Yugawaralite
+:Zincite
+:Zunyite
+
+
+--------------------------
+::Lesser Known Gemstones::
+--------------------------
+--------------------------------------------------------
+Buffs are made when these are added to jewlery or tools.
+These will be the gems you start when begining to smith.
+--------------------------------------------------------
+
+:Amblygonite
+:Ammolite (Ammonite)
+:Andalusite
+	Chiastolite
+	Viridine
+:Apatite
+	Chlorapatite
+	Fluorapatite
+	Moroxite
+	Vanadinite
+	Wilkeite
+:Axinite
+	Ferro-axinite
+	Magnesio-axinite
+	Manganaxinite
+:Benitoite
+:Beryllonite
+:Brazilianite
+:Carletonite
+:Cassiterite
+	Wood Tin
+:Catapleiite
+:Cerussite
+:Charoite
+:Chrysocolla
+:Clinozoisite
+:Cordierite
+	Iolite
+:Danburite
+:Diopside
+	Chrome-Diopside
+	Lavrovite
+	Violane
+:Dioptase
+:Dumortierite
+:Eilat Stone
+:Enstatite
+	Bronzite
+:Epidote
+:Euclase
+:Fluorite
+	Blue John
+:Gaspéite
+:Hambergite
+:Hemimorphite
+:Kornerupine
+:Kyanite
+:Lazulite
+:Nuummite
+:Petalite
+:Phenakite
+:Prehnite
+:Scapolite
+	Marialite
+	Meionite
+	Petschite
+	Wernerite
+:Scheelite
+:Stolzite
+:Serpentine
+	:Antigorite
+		Bowenite
+		Williamsite
+	:Bastite
+	:Chrysotile
+:Sinhalite
+:Smithsonite
+:Sphalerite
+:Stichtite
+:Sugilite
+:Titanite
+	Strontium Titanate
+:Ulexite
+:Unakite
+:Variscite
+	Scorodite
+:Vesuvianite
+	Californite
+	Cyprine
+
+
+
+---------------------
+::Organic Gemstones::
+---------------------
+-------------------
+These are extras!!!
+-------------------
+
+:Amber
+:Calcareous Concretions
+:Coral
+:Ivory
+:Jet
+:Mother of Pearl
+:Odontolite
+:Pearl
+	Conch Pearl
+	Freshwater Pearl
+	Saltwater Pearl
+:Shell
+:Tortoiseshell
+
+
+----------------------
+::Rocks as Gemstones::
+----------------------
+-------------------
+These are extras!!!
+-------------------
+
+:Agalmatolite
+:Fossilized Organisms
+:Glass
+	Cristinite
+	:Crystal Glass
+		Lead Glass
+	Goldstone
+	Laserblue
+	Libyan Desert Glass
+	:Natural Glass
+		Macusanite
+		:Obsidian
+			Apache Tears
+			Fire Obsidian
+			Mahogany Obsidian
+			Rainbow Obsidian
+		Sheen Obsidian
+			Snowflake Obsidian
+	Paste
+:Gypsum
+	Alabaster
+	Satin Spar
+	Selenite
+:Marble
+:Petoskey Stone
+:Tektite
+	Australite
+	Bikolite
+	Billitonite
+	Darwin Glass
+	Moldavite
